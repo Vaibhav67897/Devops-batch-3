@@ -1,1 +1,4 @@
-just i want to get a reach 
+just i want to get a reach
+added changes feature on git  
+
+The mainj feature is added 
